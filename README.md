@@ -5,7 +5,7 @@
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
-
+---
 
 * I just launched my first micro-enterprise: Analytika Tech [software | data | blockchain]
 * I’m currently learning everything that I can to sharpen my coding skills
@@ -13,11 +13,9 @@
 * 2021 Goals: Add value to people who need it
 * Fun fact: I am a CrossFit coach and athlete
 
-<br />
+---
 <img align="left" alt="xotw's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xotw&theme=blue-green&show_icons=true&hide_border=true" />
-<br />
-
-<br />
+---
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />]
@@ -37,18 +35,14 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
-
-<br />
-<br />
-### Connect with me:
+---
+###Connect with me:
 
 [<img align="left" alt="xotw" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="xotw | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="xotw | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
-
-<br />
-### 📕 Latest Medium Articles [non-dev related]
+---
+###📕 Latest Medium Articles [non-dev related]
 
 <!-- BLOG-POST-LIST:START -->
 - [Approach to Covid-19 not sustainable](https://ghf.medium.com/approach-to-covid-19-not-sustainable-bed44770dd3c)
@@ -86,7 +80,7 @@
 ---
 
 
-➡️ [more articles...](https://ghf.medium.com) -->
+<!-- ➡️ [more articles...](https://ghf.medium.com) --> -->
 
 ---
 
