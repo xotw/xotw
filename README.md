@@ -6,13 +6,12 @@
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm a Swiss Army Knife 
 
-- 🔭 I just launched my first micro-enterprise: Analytika Tech [software | data | blockchain]
-- 🌱 I’m currently learning everything that I can to sharpen my coding skills
-- 👯 I’m looking to collaborate with anyone
-- 🥅 2021 Goals: Add value to people who need it
-- ⚡ Fun fact: I am a CrossFit coach and athlete
+* I just launched my first micro-enterprise: Analytika Tech [software | data | blockchain]
+* I’m currently learning everything that I can to sharpen my coding skills
+* I’m looking to collaborate with anyone
+* 2021 Goals: Add value to people who need it
+* Fun fact: I am a CrossFit coach and athlete
 
 ### Spotify Playing 🎧
 
