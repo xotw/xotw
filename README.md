@@ -1,7 +1,7 @@
 
 
 ![VisitorCount](https://profile-counter.glitch.me/xotw/count.svg)
-### I am Gabz - aka [xotw][email] 👋
+### I am Gabz - aka [xotw]👋
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
@@ -95,7 +95,7 @@
 
 </details>
 
-[email] : mailto:ghfrancon@protonmail.com
+<!-- [email] : mailto:ghfrancon@protonmail.com -->
 [medium]: https://ghf.medium.com
 [instagram]: https://instagram.com/ghx_px
 [linkedin]: https://linkedin.com/in/gabriel-hardy-françon-21491286/
