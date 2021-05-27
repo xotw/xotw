@@ -13,8 +13,11 @@
 * 2021 Goals: Add value to people who need it
 * Fun fact: I am a CrossFit coach and athlete
 
+<br />
 <img align="left" alt="xotw's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xotw&theme=blue-green&show_icons=true&hide_border=true" />
 
+
+<br />
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />]
@@ -34,12 +37,16 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
+
+<br />
 ### Connect with me:
 
 [<img align="left" alt="xotw" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="xotw | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="xotw | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
+<br />
 ### 📕 Latest Medium Articles [non-dev related]
 
 <!-- BLOG-POST-LIST:START -->
