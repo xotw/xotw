@@ -75,7 +75,7 @@
 
 ---
 
-<details>
+<!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -86,14 +86,13 @@
 5. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing) -->
 <!--END_SECTION:activity-->
 
-</details>
+<!-- </details> --> -->
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="xotw's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xotw&show_icons=true&hide_border=true" />
+<summary>:zap: GitHub Stats</summary>
 
-</details>
+<img align="left" alt="xotw's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xotw&show_icons=true&hide_border=true" />
+
 
 <!-- [email] : mailto:ghfrancon@protonmail.com -->
 [medium]: https://ghf.medium.com
