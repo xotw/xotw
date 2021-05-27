@@ -91,7 +91,7 @@
 
 <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="xotw's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xotw&show_icons=true&hide_border=true" />
+<img align="left" alt="xotw's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xotw&theme=blue-green&show_icons=true&hide_border=true" />
 
 
 <!-- [email] : mailto:ghfrancon@protonmail.com -->
