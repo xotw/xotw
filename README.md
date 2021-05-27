@@ -13,13 +13,13 @@
 * 2021 Goals: Add value to people who need it
 * Fun fact: I am a CrossFit coach and athlete
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/gabrielhardyfrancon)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/gabrielhardyfrancon) -->
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][medium]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.iconfinder.com%2Ficons%2F7079375%2Fmedium_logo_medium_icon&psig=AOvVaw3gZNOA5YyiqWYX0nIm2wZk&ust=1622230562694000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICXwPfN6vACFQAAAAAdAAAAABAD" />][medium]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
