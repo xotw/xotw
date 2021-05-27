@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Visitor Count](https : //profile-counter.glitch.me/xotw/count.svg)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=xotw)
