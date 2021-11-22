@@ -21,6 +21,6 @@
 
 </p>
 
-<p align="center">
-<a href="![VisitorCount](https://profile-counter.glitch.me/xotw/count.svg)" </a>
- </p>
+<p  align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=matyo91.matyo91" alt="visitor badge"/>
+</p>
