@@ -58,5 +58,5 @@
 </p>
 
 <p align="center">
-![VisitorCount](https://profile-counter.glitch.me/xotw/count.svg)
+<a ![VisitorCount](https://profile-counter.glitch.me/xotw/count.svg) </a>
  </p>
