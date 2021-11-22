@@ -57,4 +57,6 @@
 
 </p>
 
+<p align="center">
 ![VisitorCount](https://profile-counter.glitch.me/xotw/count.svg)
+ </p>
