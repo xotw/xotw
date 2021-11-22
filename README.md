@@ -16,7 +16,7 @@
 ---
 <img align="left" alt="xotw's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xotw&theme=blue-green&show_icons=true&hide_border=true" />
 ---
-### Languages and Tools:
+## Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
@@ -36,7 +36,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 ---
-###Connect with me:
+## Connect with me:
 
 [<img align="left" alt="xotw" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="xotw | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -97,10 +97,12 @@
 
 <!-- </details> -->
 
+## Links
 
+<p align="center">
+  
+<a href="ghfrancon@protonmail.com"><img src="https://img.icons8.com/fluency/48/000000/protonmail.png" alt="email"/></a>
+<a href="https://www.linkedin.com/in/gabriel-hardy-françon-21491286"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://ghf.medium.com"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
 
-<!-- [email] : mailto:ghfrancon@protonmail.com -->
-[medium]: https://ghf.medium.com
-[instagram]: https://instagram.com/ghx_px
-[linkedin]: https://linkedin.com/in/gabriel-hardy-françon-21491286/
-
+</p>
