@@ -7,9 +7,9 @@
 * 2021 Goals: Add value to people who need it
 * Fun fact: I am a CrossFit coach and athlete
 
-
+<p align="center">
 <img align="left" alt="xotw's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xotw&theme=blue-green&show_icons=true&hide_border=true" />
-
+ </p>
 
 ## Links
 
