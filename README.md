@@ -1,4 +1,6 @@
-### I am Gabriel - aka [xotw]👋
+<p align="center">
+  <img src="https://github.com/xotw/xotw/raw/main/assets/github.gif" alt="Hi, I'm Gabriel 👋 I'm a Blockchain Dev – Hit me up!">
+</p>
 
 
 * I just launched my first micro-enterprise: Analytika Tech [software | data | blockchain]
