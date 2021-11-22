@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Gabriel 👋 I'm a Blockchain Dev – Hit me up!">
-</p>
-
+## I am Gabriel - aka [xotw]👋
 
 * I just launched my first micro-enterprise: Analytika Tech [software | data | blockchain]
 * I’m currently learning everything that I can to sharpen my coding skills
