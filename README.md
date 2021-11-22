@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/xotw/xotw/raw/main/assets/github.gif" alt="Hi, I'm Gabriel 👋 I'm a Blockchain Dev – Hit me up!">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Gabriel 👋 I'm a Blockchain Dev – Hit me up!">
 </p>
 
 
