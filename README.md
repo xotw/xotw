@@ -1,10 +1,12 @@
-## I am Gabriel - aka [xotw]👋
+## I am Gabriel - [xotw]👋
 
-* I just launched my first micro-enterprise: Analytika Tech [software | data | blockchain]
-* I’m currently learning everything that I can to sharpen my coding skills
-* I’m looking to collaborate with anyone
-* 2021 Goals: Add value to people who need it
-* Fun fact: I am a CrossFit coach and athlete
+* Analytika Tech [Product | Data | Web 3.0]
+* Back: Java && Python && Ruby
+* Front: Javascript && HTML && CSS
+* 2022 Goals: Solidity && Typescript && Kotlin && Go
+* Present: Own project
+* Past: Java Dev @IntellectEU
+* DB: Postgres && MYSQL && SQL Server && NoSQL[MongoDB, CouchDB]
 
 <p align="center">
  <img align="left" alt="xotw's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xotw&theme=blue-green&show_icons=true&hide_border=true" />
