@@ -12,7 +12,7 @@
  <img align="left" alt="xotw's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xotw&theme=blue-green&show_icons=true&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
 ## Links
    <p align="center">
      <a href="ghfrancon@protonmail.com"><img src="https://img.icons8.com/fluency/48/000000/protonmail.png" alt="email"/></a>
@@ -26,4 +26,4 @@
    <p  align="center">
      <img src="https://visitor-badge.glitch.me/badge?page_id=xotw.xotw" alt="visitor badge"/>
    </p>
-</p>
+</p> -->
