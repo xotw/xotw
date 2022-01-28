@@ -16,10 +16,13 @@
 
 <p align="center">
   
- <a href="ghfrancon@protonmail.com"><img src="https://img.icons8.com/fluency/48/000000/protonmail.png" alt="email"/></a>
- <a href="https://www.linkedin.com/in/gabriel-hardy-françon-21491286"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
- <a href="https://ghf.medium.com"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
-
+  <a href="ghfrancon@protonmail.com"><img src="https://img.icons8.com/fluency/48/000000/protonmail.png" alt="email"/></a>
+ </p>
+ <p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-hardy-françon-21491286"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+ </p>
+ <p align="center">
+  <a href="https://ghf.medium.com"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
 </p>
 
 <p  align="center">
