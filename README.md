@@ -9,7 +9,7 @@
 * DB: Postgres && MYSQL && SQL Server && NoSQL[MongoDB, CouchDB]
 
 <p align="center">
- <img align="left" alt="xotw's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xotw&theme=blue-green&show_icons=true&hide_border=true" />
+ <img align="left" alt="XOTW's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xotw&theme=blue-green&show_icons=true&hide_border=true" />
 </p>
 
 <!-- <p align="center">
