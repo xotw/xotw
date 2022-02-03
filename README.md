@@ -7,6 +7,8 @@
 * Present: Own project
 * Past: Java Dev @IntellectEU
 * DB: Postgres && MYSQL && SQL Server && NoSQL[MongoDB, CouchDB]
+* I also love writing - here are my [Medium Articles](https://medium.com/analytika-tech) 
+* I never stop practicing, so here is my [Exercism Profile](https://exercism.org/dashboard)  
 
 <p align="center">
  <img align="left" alt="XOTW's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xotw&theme=blue-green&show_icons=true&hide_border=true" />
