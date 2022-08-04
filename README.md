@@ -5,7 +5,9 @@
 * Front: Javascript && HTML && CSS
 * 2022 Goals: Solidity && Typescript && Kotlin && Go
 * Present: Own project
-* Past: Java Dev @IntellectEU
+* Past: 
+       * Tech PM & Writer @Nested
+       * Java Dev @IntellectEU
 * DB: Postgres && MYSQL && SQL Server && NoSQL[MongoDB, CouchDB]
 * My [Exercism Profile](https://exercism.org/dashboard)  
 * My [Medium Articles](https://medium.com/analytika-tech) 
