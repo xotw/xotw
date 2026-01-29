@@ -1,31 +1,32 @@
-## I am Gabriel - [xotw]👋
+# Gabriel | GTM Engineer @ [Bulldozer](https://bulldozer.com)
 
-* Analytika Tech [Product | Data | Web 3.0]
-* Back: Java && Python && Ruby
-* Front: Javascript && HTML && CSS
-* 2022 Goals: Solidity && Typescript && Kotlin && Go
-* Present: Own project
-* Past: Tech PM & Writer @Nested / Java Dev @IntellectEU
-* DB: Postgres && MYSQL && SQL Server && NoSQL[MongoDB, CouchDB]
-* My [Exercism Profile](https://exercism.org/dashboard)  
-* My [Medium Articles](https://medium.com/analytika-tech) 
+Building growth infrastructure. Breaking things. Shipping daily.
+
+## What I Do
+
+**TAM Building** — Mapping markets, finding signals, qualifying at scale
+**Lead Scoring & Scraping** — Clay workflows, enrichment pipelines, scoring models
+**Automation** — n8n, custom scripts, whatever gets the job done
+**Tool Building** — If it doesn't exist, I build it. Pirate mindset.
+
+## Stack
+
+```
+Clay · n8n · Python · APIs · Webhooks · SQL
+```
+
+## Philosophy
+
+```
+Ship → Break → Learn → Iterate → Repeat
+```
+
+Pragmatism over perfection. Velocity over polish.
+The best tool is the one that works *today*.
+
+---
 
 <p align="center">
- <img align="left" alt="XOTW's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xotw&theme=blue-green&show_icons=true&hide_border=true" />
+  <a href="https://www.linkedin.com/in/gabriel-hardy-françon-21491286">LinkedIn</a> ·
+  <a href="https://medium.com/analytika-tech">Medium</a>
 </p>
-
-<!-- <p align="center">
-## Links
-   <p align="center">
-     <a href="ghfrancon@protonmail.com"><img src="https://img.icons8.com/fluency/48/000000/protonmail.png" alt="email"/></a>
-   </p>
-   <p align="center">
-     <a href="https://www.linkedin.com/in/gabriel-hardy-françon-21491286"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-   </p>
-   <p align="center">
-     <a href="https://ghf.medium.com"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
-   </p>
-   <p  align="center">
-     <img src="https://visitor-badge.glitch.me/badge?page_id=xotw.xotw" alt="visitor badge"/>
-   </p>
-</p> -->
