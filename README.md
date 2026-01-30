@@ -1,32 +1,80 @@
-# Gabriel | GTM Engineer @ [Bulldozer](https://bulldozer.com)
-
-Building growth infrastructure. Breaking things. Shipping daily.
-
-## What I Do
-
-**TAM Building** — Mapping markets, finding signals, qualifying at scale
-**Lead Scoring & Scraping** — Clay workflows, enrichment pipelines, scoring models
-**Automation** — n8n, custom scripts, whatever gets the job done
-**Tool Building** — If it doesn't exist, I build it. Pirate mindset.
-
-## Stack
-
 ```
-Clay · n8n · Python · APIs · Webhooks · SQL
-```
-
-## Philosophy
-
-```
-Ship → Break → Learn → Iterate → Repeat
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ██████╗  █████╗ ██████╗ ██████╗ ██╗███████╗██╗                 ║
+║  ██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██║██╔════╝██║                 ║
+║  ██║  ███╗███████║██████╔╝██████╔╝██║█████╗  ██║                 ║
+║  ██║   ██║██╔══██║██╔══██╗██╔══██╗██║██╔══╝  ██║                 ║
+║  ╚██████╔╝██║  ██║██████╔╝██║  ██║██║███████╗███████╗            ║
+║   ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝            ║
+║                                                                  ║
+║  > GTM ENGINEER @ BULLDOZER                                      ║
+║  > STATUS: ONLINE                                                ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-Pragmatism over perfection. Velocity over polish.
-The best tool is the one that works *today*.
+```bash
+$ whoami
+> growth_hacker.exe | building infrastructure in the shadows
+> breaking things | shipping daily | no sleep mode
+```
+
+---
+
+### `> ./capabilities.sh`
+
+```
+[■] TAM_BUILDING      → mapping markets, finding signals, qualifying at scale
+[■] LEAD_SCORING      → clay workflows, enrichment pipelines, scoring models
+[■] AUTOMATION        → n8n, custom scripts, whatever executes
+[■] TOOL_BUILDING     → if [ ! -f $TOOL ]; then build $TOOL; fi
+```
+
+---
+
+### `> cat stack.txt`
+
+```
+┌─────────────────────────────────────────┐
+│  CLAY  │  n8n  │  PYTHON  │  APIs       │
+│  WEBHOOKS  │  SQL  │  SCRAPERS          │
+└─────────────────────────────────────────┘
+```
+
+---
+
+### `> echo $PHILOSOPHY`
+
+```
+while true; do
+    ship
+    break
+    learn
+    iterate
+done
+```
+
+```diff
++ PRAGMATISM > PERFECTION
++ VELOCITY > POLISH
++ THE BEST TOOL IS THE ONE THAT WORKS TODAY
+```
 
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-hardy-françon-21491286">LinkedIn</a> ·
-  <a href="https://medium.com/analytika-tech">Medium</a>
+
+```
+[ CONNECT ]
+```
+
+[`LinkedIn`](https://www.linkedin.com/in/gabriel-hardy-françon-21491286) | [`Medium`](https://medium.com/analytika-tech)
+
 </p>
+
+```
+> connection_established
+> end_transmission_
+█
+```
