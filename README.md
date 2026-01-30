@@ -8,7 +8,7 @@
         ╚██████╔╝██║  ██║██████╔╝
          ╚═════╝ ╚═╝  ╚═╝╚═════╝
 
-        ☠  GTM ENGINEER @ BULLDOZER  ☠
+        ☠  GTM BUCCANEER @ BULLDOZER  ☠
            ⚓ STATUS: SAILING ⚓
 ```
 
