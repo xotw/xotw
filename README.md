@@ -1,64 +1,64 @@
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ██████╗  █████╗ ██████╗ ██████╗ ██╗███████╗██╗                 ║
-║  ██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██║██╔════╝██║                 ║
-║  ██║  ███╗███████║██████╔╝██████╔╝██║█████╗  ██║                 ║
-║  ██║   ██║██╔══██║██╔══██╗██╔══██╗██║██╔══╝  ██║                 ║
-║  ╚██████╔╝██║  ██║██████╔╝██║  ██║██║███████╗███████╗            ║
-║   ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝            ║
-║                                                                  ║
-║  > GTM ENGINEER @ BULLDOZER                                      ║
-║  > STATUS: ONLINE                                                ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║    ██████╗  █████╗ ██████╗                                    ║
+║   ██╔════╝ ██╔══██╗██╔══██╗                                   ║
+║   ██║  ███╗███████║██████╔╝                                   ║
+║   ██║   ██║██╔══██║██╔══██╗                                   ║
+║   ╚██████╔╝██║  ██║██████╔╝                                   ║
+║    ╚═════╝ ╚═╝  ╚═╝╚═════╝                                    ║
+║                                                               ║
+║      ☠  GTM ENGINEER @ BULLDOZER  ☠                           ║
+║      ⚓ STATUS: SAILING                                        ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
 ```bash
 $ whoami
-> growth_hacker.exe | building infrastructure in the shadows
-> breaking things | shipping daily | no sleep mode
+> data_pirate.exe | raiding markets | plundering leads
+> no permission needed | ship daily or walk the plank
 ```
 
 ---
 
-### `> ./capabilities.sh`
+### `> ./loot.sh`
 
 ```
-[■] TAM_BUILDING      → mapping markets, finding signals, qualifying at scale
-[■] LEAD_SCORING      → clay workflows, enrichment pipelines, scoring models
-[■] AUTOMATION        → n8n, custom scripts, whatever executes
-[■] TOOL_BUILDING     → if [ ! -f $TOOL ]; then build $TOOL; fi
+[☠] TAM_RAIDS         → charting unknown markets, hunting signals
+[☠] LEAD_PLUNDERING   → clay cannons, enrichment crews, scoring treasure
+[☠] AUTOMATION        → n8n, custom ships, whatever sails
+[☠] TOOL_FORGING      → no tool? forge it. pirate code.
 ```
 
 ---
 
-### `> cat stack.txt`
+### `> cat arsenal.txt`
 
 ```
 ┌─────────────────────────────────────────┐
 │  CLAY  │  n8n  │  PYTHON  │  APIs       │
-│  WEBHOOKS  │  SQL  │  SCRAPERS          │
+│  WEBHOOKS  │  SQL  │  SCRAPERS  ⚓       │
 └─────────────────────────────────────────┘
 ```
 
 ---
 
-### `> echo $PHILOSOPHY`
+### `> echo $PIRATE_CODE`
 
-```
+```bash
 while true; do
-    ship
-    break
-    learn
-    iterate
+    ship       # always be shipping
+    break      # rules are suggestions
+    loot       # take what you need
+    iterate    # come back stronger
 done
 ```
 
 ```diff
-+ PRAGMATISM > PERFECTION
-+ VELOCITY > POLISH
-+ THE BEST TOOL IS THE ONE THAT WORKS TODAY
++ TAKE WHAT YOU NEED, BUILD WHAT YOU CANT FIND
++ ASK FORGIVENESS, NOT PERMISSION
++ THE SEAS BELONG TO THOSE WHO SAIL
 ```
 
 ---
@@ -66,7 +66,7 @@ done
 <p align="center">
 
 ```
-[ CONNECT ]
+[ ⚓ CREW UP ⚓ ]
 ```
 
 [`LinkedIn`](https://www.linkedin.com/in/gabriel-hardy-françon-21491286) | [`Medium`](https://medium.com/analytika-tech)
@@ -74,7 +74,7 @@ done
 </p>
 
 ```
-> connection_established
-> end_transmission_
-█
+> boarding_complete
+> fair_winds_
+☠
 ```
