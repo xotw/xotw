@@ -8,16 +8,16 @@
         ╚██████╔╝██║  ██║██████╔╝
          ╚═════╝ ╚═╝  ╚═╝╚═════╝
 
-        ☠  GTM BUCCANEER @ BULLDOZER  ☠
-           ⚓ STATUS: SAILING ⚓
+              ☠  GTM BUCCANEER  ☠
+              ⚓ STATUS: SAILING ⚓
 ```
 
 </p>
 
 ```bash
 $ whoami
-> data_pirate.exe | raiding markets | plundering leads
-> no permission needed | ship daily or walk the plank
+> i build gtm systems. schema, pipeline, interface, deployed.
+> most of what people pay for here is three api calls and a table.
 ```
 
 ---
@@ -25,10 +25,10 @@ $ whoami
 ### `> ./loot.sh`
 
 ```
-[☠] TAM_RAIDS         → charting unknown markets, hunting signals
-[☠] LEAD_PLUNDERING   → clay cannons, enrichment crews, scoring treasure
-[☠] AUTOMATION        → n8n, custom ships, whatever sails
-[☠] TOOL_FORGING      → no tool? forge it. pirate code.
+[☠] SYSTEMS    → full apps. database to screen. live, not a prototype.
+[☠] DATA       → a million rows in. one number out, and it survives a steering committee.
+[☠] AGENTS     → rules that run on their own, with the evidence stapled on.
+[☠] FORGING    → no tool for it? there is now.
 ```
 
 ---
@@ -37,8 +37,8 @@ $ whoami
 
 ```
 ┌─────────────────────────────────────────┐
-│  CLAY  │  n8n  │  PYTHON  │  APIs       │
-│  WEBHOOKS  │  SQL  │  SCRAPERS  ⚓       │
+│  CLAUDE CODE  │  POSTGRES  │  PYTHON    │
+│  JS  │  APIs  │  MCP  │  CONTAINERS  ⚓  │
 └─────────────────────────────────────────┘
 ```
 
@@ -48,7 +48,7 @@ $ whoami
 
 ```bash
 while true; do
-    ship       # always be shipping
+    ship       # the demo always works. ship anyway.
     break      # rules are suggestions
     loot       # take what you need
     iterate    # come back stronger
