@@ -36,10 +36,11 @@ $ whoami
 ### `> cat arsenal.txt`
 
 ```
-┌─────────────────────────────────────────┐
-│  CLAUDE CODE  │  POSTGRES  │  PYTHON    │
-│  JS  │  APIs  │  MCP  │  CONTAINERS  ⚓  │
-└─────────────────────────────────────────┘
+┌───────────────────────────────────────────────┐
+│  CLAUDE CODE  │  CODEX  │  ANTIGRAVITY       │
+│  POSTGRES  │  PYTHON  │  JS  │  SQL  │  APIs │
+│  MCP  │  CONTAINERS  │  whatever ships it  ⚓ │
+└───────────────────────────────────────────────┘
 ```
 
 ---
